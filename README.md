@@ -15,3 +15,8 @@ Rust側からJava側にfloat配列を渡す方法が不明のため、サンプ�
 ## 疑問点
 
 - 動的リンクからAndroidのファイルにアクセスできるか
+
+## 参考
+
+- [RustをクロスコンパイルしてAndroidで動かす - totechite's blog](https://totechite.hatenablog.com/entry/2019/01/07/000000)
+- [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia)
